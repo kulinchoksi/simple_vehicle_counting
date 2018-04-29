@@ -1,1 +1,1 @@
-from _cvb import *
+from cvb import *

@@ -1,4 +1,4 @@
-from _analysis import *
+from analysis import *
 
 # noinspection PyUnresolvedReferences
 import cvb

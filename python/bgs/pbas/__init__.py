@@ -1,4 +1,4 @@
-from _pbas import *
+from pbas import *
 
 # noinspection PyUnresolvedReferences
 import pyboostcvconverter as pbcvt

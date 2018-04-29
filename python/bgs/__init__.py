@@ -1,4 +1,4 @@
-from _bgs import *
+from bgs import *
 
 # noinspection PyUnresolvedReferences
 import pyboostcvconverter as pbcvt
